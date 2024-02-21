@@ -1,0 +1,13 @@
+#container{
+    border: dotted;
+    color: blue;
+    
+
+    }
+    #text{
+        border: solid;
+        padding: 20px;
+        margin: 5%;
+        color: brown ;
+
+    }
